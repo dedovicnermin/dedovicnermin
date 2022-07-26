@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with: 
-          config_timezome: America/Chicago
+          config_timezone: America/Chicago
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.facts.svg
