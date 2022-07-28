@@ -17,6 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with: 
+          token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/Chicago
       - uses: lowlighter/metrics@latest
         with:
