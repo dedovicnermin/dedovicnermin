@@ -1,6 +1,5 @@
 ![Metrics](/github-metrics.svg)
-![metrics2](/metrics.plugin.habits.facts.svg)
-![metrics3](/metrics.plugin.habits.charts.svg)
+![metrics3](/metrics.plugin.languages.indepth.svg)
 
 <!--
 **dedovicnermin/dedovicnermin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
