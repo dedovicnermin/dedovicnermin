@@ -27,7 +27,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_ignored: >-
-            ejs, scss
+            ejs, scss, css, scala
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 10
           plugin_languages_analysis_timeout: 60
